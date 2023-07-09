@@ -26,5 +26,7 @@ My hope is that at least some viewers will get invested and will have their favo
 
 ### Links
 [Twitch Channel](http://twitch.tv/forever_game_io)
+
 [My Twitter](http://twitter.com/svitkunas)
+
 [Feedback Form](https://forms.gle/PJdDsSiKv5iAWU3P9)
