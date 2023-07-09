@@ -2,6 +2,8 @@
 
 So you are here either because you didn't get what Forever Game was (not your fault), or you want to learn more about it. You are in safe hands.
 
+I did, however, consciously, was trying not to give away everything about the game upfront and see how much of it viewers can pick up themselves. So if you are reading this before the playtest has even started, perhaps you might want to wait a bit and experience it firsthand? Totally up to you, though, I'm not your mom :)
+
 ## What is it
 
 Forever Game is played by watching a live game stream on twitch and cheering for your favourite team - either privately or in the chat. Optionally, you can participate by betting made-up points on individual game outcomes. Points later allow you to influence what upgrades each team gets in the *Forever Market*. And, perhaps, something else as well? (Sly smile)
